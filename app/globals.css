@@ -1,0 +1,71 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+}
+
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+
+::-webkit-scrollbar-track {
+  background: #00162b;
+}
+
+
+::-webkit-scrollbar-thumb {
+  background-color: #75fede;
+  border-radius: 10px;
+  border: 3px solid transparent;
+}
+
+.calendar {
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+
+.calendar ::-webkit-scrollbar {
+  height: 2px;
+}
+
+.calendar ::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+.calendar ::-webkit-scrollbar-thumb {
+  background-color: #000;
+  border-radius: 10px;
+}
+
+
+.calendar {
+  scrollbar-width: thin;
+  scrollbar-color: #000 transparent;
+}
+
+
