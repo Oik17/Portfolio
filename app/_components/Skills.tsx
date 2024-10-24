@@ -19,8 +19,18 @@ export default function Skills() {
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Python</span>
                 </div>
                 <div className="relative group">
+                    <i className="devicon-mongodb-plain text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Mongo DB</span>
+                </div>
+
+                <div className="relative group">
                     <i className="devicon-postgresql-plain text-3xl"></i>
-                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">SQL</span>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">PostgreSQL</span>
+                </div>
+                
+                <div className="relative group">
+                    <i className="devicon-mysql-original text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">MySQL</span>
                 </div>
                 <div className="relative group">
                     <i className="devicon-graphql-plain text-3xl"></i>
@@ -35,8 +45,16 @@ export default function Skills() {
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">C</span>
                 </div>
                 <div className="relative group">
+                    <i className="devicon-r-plain text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">R</span>
+                </div>
+                <div className="relative group">
                     <i className="devicon-java-plain text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Java</span>
+                </div>                
+                <div className="relative group">
+                    <i className="devicon-nodejs-plain text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">NodeJS</span>
                 </div>
                 <div className="relative group">
                     <i className="devicon-html5-plain text-3xl"></i>
