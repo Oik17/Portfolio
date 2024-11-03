@@ -19,7 +19,8 @@ export default function Hero()
             <div className="lg:flex-col gap-2 lg:flex md:hidden hidden mt-10 text-slate-400 w-fit text-sm">
                 <a href="#main"><p className={`${league.className} hover:text-slate-100 hover:duration-500`}>{"------  "} &nbsp; ABOUT</p></a>
                 <a href="#experience"><p className={`${league1.className} hover:text-slate-100 hover:duration-500  `}>{"------"} &nbsp; EXPERIENCE</p></a>
-                <a href="#projects"><p className={`${league1.className}  hover:text-slate-100 hover:duration-500 `}> {"------   "} &nbsp; PROJECTS</p></a> 
+                <a href="#projects"><p className={`${league1.className}  hover:text-slate-100 hover:duration-500 `}> {"------   "} &nbsp; PROJECTS</p></a>
+                <a href="#organizations"><p className={`${league1.className}  hover:text-slate-100 hover:duration-500 `}> {"------   "} &nbsp; ORGANISATIONS</p></a> 
             </div>
 
             <div className="calendar mt-12 w-3/5 lg:block hidden">

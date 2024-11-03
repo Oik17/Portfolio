@@ -5,7 +5,7 @@ const league1 = Kanit({ subsets: ["latin"], weight: "400" });
 
 export default function Organisations() {
   return (
-    <div id="experience" className={`${league1.className} p-2 md:p-6 mt-12 lg:mt-10`}>
+    <div id="organizations" className={`${league1.className} p-2 md:p-6 mt-12 lg:mt-10`}>
       <div className="text-slate-400 text-justify">
         <p className="text-slate-100 text-2xl font-semibold">Organisations</p>
       </div>
