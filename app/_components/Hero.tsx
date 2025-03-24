@@ -7,7 +7,6 @@ const league1 = Kanit({ subsets: ["latin"], weight: "400" });
 
 export default function Hero()
 {
-    const year = new Date().getFullYear();
 
     return (
         <div className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:flex-col lg:justify-between lg:py-4">
