@@ -82,6 +82,10 @@ export default function Skills() {
                     <i className="devicon-react-original text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">ReactJS</span>
                 </div>
+                <div className="relative group">
+                    <i className="devicon-grpc-plain text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">gRPC</span>
+                </div>
 
                 {/* Tools */}
                 <div className="relative group">
@@ -99,6 +103,10 @@ export default function Skills() {
                 <div className="relative group">
                     <i className="devicon-oauth-plain text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">OAuth 2.0</span>
+                </div>
+                <div className="relative group">
+                    <i className="devicon-nginx-original text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">NGINX</span>
                 </div>
             </div>
         </div>

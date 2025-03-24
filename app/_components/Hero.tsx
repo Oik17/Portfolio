@@ -1,5 +1,5 @@
 import {Kanit} from "next/font/google"
-import { GitHub, LinkedIn} from "@mui/icons-material";
+import { GitHub, LinkedIn, Article} from "@mui/icons-material";
 import GitHubCalendar from "react-github-calendar";
 
 const league = Kanit({ subsets: ["latin"], weight: "500" });
@@ -30,6 +30,7 @@ export default function Hero()
             <div className="flex gap-4 lg:mt-8 mt-10">
                 <a href="https://github.com/Oik17" className={`text-slate-400 hover:text-slate-100 hover:duration-500`} target="_blank" rel="noopener noreferrer" ><GitHub className="md:h-7 md:w-7"/></a>
                 <a href="https://www.linkedin.com/in/akshat-gupta-864b39235/" className={`text-slate-400 hover:text-slate-100 hover:duration-500`} target="_blank" rel="noopener noreferrer" ><LinkedIn className="md:h-7 md:w-7"/></a>
+                <a href="https://resume.akshat-gupta.com/" className={`text-slate-400 hover:text-slate-100 hover:duration-500`} target="_blank" rel="noopener noreferrer" ><Article className="md:h-7 md:w-7"/></a>
             </div>
           
           
