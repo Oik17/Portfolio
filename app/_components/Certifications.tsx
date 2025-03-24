@@ -42,21 +42,20 @@ export default function Certifications() {
 
 const certifications = [
   {
-    title: "AWS Certified Solutions Architect",
+    title: "AWS Certified Cloud Practitioner",
     issuer: "Amazon Web Services",
-    date: "May 2024",
-    link: "https://www.credly.com/your-certification-link"
+    date: "Aug 2024",
+    link: "https://cp.certmetrics.com/amazon/en/public/verify/credential/e95a5c2d48ed4b2eaa9bb97dfde9f97f"
   },
   {
-    title: "Golang Developer Certification",
-    issuer: "Go Foundation",
-    date: "January 2024",
-    link: "https://your-certification-link.com"
+    title: "Game Development using PyGame",
+    issuer: "GUVI Geek Network, IITM Research Park",
+    date: "Sep 2022",
+    link: "https://www.guvi.in/certificate?id=jk5m2Y6R320191"
   },
   {
-    title: "MongoDB Database Administrator",
-    issuer: "MongoDB University",
-    date: "November 2023",
-    link: "https://university.mongodb.com/your-certification"
-  }
+    title: "Guitar Grade 7",
+    issuer: "London College of Music Examinations",
+    date: "Apr 2022",
+  },
 ];
