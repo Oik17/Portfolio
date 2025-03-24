@@ -83,7 +83,7 @@ const work = [
     description:
       "Frontend of portal used by the admin to create teams, monitor the leaderboard in real time, update team scores and monitor the progress of the teams for SIAM-VIT's flagship event, MPL, hosting over 100 concurrent users.",
     skills: ["ReactJS", "TailwindCSS"],
-    github: "https://github.com/Oik17/gRPC-game",
+    github: "https://github.com/SIAM-VIT/MPL-fe-admin",
   },
   {
     title: "Golang File Setup Extension",
