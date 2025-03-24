@@ -50,7 +50,7 @@ const work = [
       company: "GovGPT",
       date: "JAN - MAY 2024",
       description:
-        "Developed the backend of an application to be used by US police using Flask and GoLang, using Timescale DB as the database and OAuth2.0 for user authentication. Converted GraphQL database logic from NodeJS to GoLang for improved performance. Developed a program which filters PDFs containing multiple emails along with hyperlinks into separate entities. Maintained and upgraded the legacy codebase written in NodeJS, implementing better spam and profanity filters",
+        "Developed the backend of an a law enforcement application with Flask and GoLang, using Timescale DB as the database and OAuth2.0 for user authentication. Converted GraphQL database logic from NodeJS to GoLang for improved performance. Developed a program which filters PDFs containing multiple emails along with hyperlinks into separate entities. Maintained and upgraded the legacy codebase written in NodeJS, implementing better spam and profanity filters",
       skills: ["Go", "NodeJS", "Python", "TimescaleDB", "GraphQL"],
     },
     {
