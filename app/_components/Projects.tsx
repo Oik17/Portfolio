@@ -79,21 +79,21 @@ const work = [
   {
     title: "MPL Backend",
     description:
-      "Backend for SIAM-VIT's flagship event, Math Premier League, which hosted over 100 concurrent users. Contains functionalities to authenticate users, update team scores, display and verify questions, and monitor the leaderboard in real time.",
+      "Backend for SIAM-VIT&apos;s flagship event, Math Premier League, which hosted over 100 concurrent users. Contains functionalities to authenticate users, update team scores, display and verify questions, and monitor the leaderboard in real time.",
     skills: ["Go", "sqlx", "PostgreSQL", "Redis", "NGINX", "Docker", "JWT"],
     github: "https://github.com/SIAM-VIT/MPL-be",
   },
   {
     title: "CookOff Backend",
     description:
-      "Backend for CodeChef-VIT's flagship event, CookOff 7.0. Developed questions handler and real time code evaluation using Judge0 API.",
+      "`Backend for CodeChef-VIT&apos;s flagship event, CookOff 7.0. Developed questions handler and real time code evaluation using Judge0 API.`",
     skills: ["ExpressJS", "MongoDB", "Docker", "JWT"],
     github: "https://github.com/CodeChefVIT/cookoff-backend",
   },
   {
     title: "MPL Admin Portal",
     description:
-      "Frontend of portal used by the admin to create teams, monitor the leaderboard in real time, update team scores and monitor the progress of the teams for SIAM-VIT's flagship event, MPL, hosting over 100 concurrent users.",
+      "Frontend of portal used by the admin to create teams, monitor the leaderboard in real time, update team scores and monitor the progress of the teams for SIAM-VIT&apos;s flagship event, MPL, hosting over 100 concurrent users.",
     skills: ["ReactJS", "TailwindCSS"],
     github: "https://github.com/SIAM-VIT/MPL-fe-admin",
   },
