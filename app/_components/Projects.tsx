@@ -1,6 +1,7 @@
 import { Kanit } from "next/font/google";
 import GitHubCalendar from "react-github-calendar";
 import { FaGithub } from "react-icons/fa";
+import { FaLink  } from "react-icons/fa"; 
 
 const league1 = Kanit({ subsets: ["latin"], weight: "400" });
 
@@ -22,6 +23,17 @@ export default function Projects() {
             <div className="">
               <div className="flex items-center gap-2">
                 <p className="text-slate-100 font-semibold text-lg">{item.title}</p>
+                
+                {item.msstore && (
+                  <a 
+                    href={item.msstore} 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-slate-400 hover:text-slate-100"
+                  >
+                    <FaLink  size={18} />
+                  </a>
+                )}
                 {item.github && (
                   <a 
                     href={item.github} 
@@ -91,6 +103,7 @@ const work = [
       "VSCode Extension that initializes basic files and folder structure for Go frameworks (Gin/Echo/Fiber/Chi), including main.go, Docker files, and optional SQLx setup.",
     skills: ["Go", "Javascript"],
     github: "https://github.com/Oik17/golang-file-setup-extension",
+    msstore: "https://marketplace.visualstudio.com/items?itemName=AkshatGupta.golang-sqlx-file-setup", 
   },
   {
     title: "VTOP to Google Calendar Extension",
