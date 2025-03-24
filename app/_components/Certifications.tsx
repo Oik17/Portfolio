@@ -51,7 +51,7 @@ const certifications = [
     title: "Game Development using PyGame",
     issuer: "GUVI Geek Network, IITM Research Park",
     date: "Sep 2022",
-    link: "https://www.guvi.in/certificate?id=jk5m2Y6R320191"
+    link: "https://www.guvi.in/verify-certificate?id=jK5m2Y6R32O191XM63"
   },
   {
     title: "Guitar Grade 7",
