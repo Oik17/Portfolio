@@ -48,16 +48,16 @@ const certifications = [
     link: "https://cp.certmetrics.com/amazon/en/public/verify/credential/e95a5c2d48ed4b2eaa9bb97dfde9f97f"
   },
   {
-    title: "Game Development using PyGame",
-    issuer: "GUVI Geek Network, IITM Research Park",
-    date: "Sep 2022",
-    link: "https://www.guvi.in/verify-certificate?id=jK5m2Y6R32O191XM63"
-  },
-  {
     title: "The Complete Full-Stack Web Development BootCamp",
     issuer: "Angela Yu, Udemy",
     date: "March 2024",
     link: "https://www.udemy.com/certificate/UC-9df84cd4-bf14-45b7-8145-67afce01df69/"
+  },
+  {
+    title: "Game Development using PyGame",
+    issuer: "GUVI Geek Network, IITM Research Park",
+    date: "Sep 2022",
+    link: "https://www.guvi.in/verify-certificate?id=jK5m2Y6R32O191XM63"
   },
   {
     title: "Guitar Grade 7",
