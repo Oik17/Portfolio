@@ -54,7 +54,7 @@ const work = [
       skills: ["Go", "NodeJS", "Python", "TimescaleDB", "GraphQL"],
     },
     {
-      title: "Backend Developer Intern",
+      title: "Backend Developer",
       company: "VoxVertex",
       date: "JUN - AUG 2024",
       description:
