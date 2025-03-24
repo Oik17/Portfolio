@@ -24,7 +24,7 @@ export default function Hero()
             </div>
 
             <div className="calendar mt-12 w-3/5 lg:block hidden">
-                <GitHubCalendar username="Oik17" colorScheme="dark" year={year}/>
+                <GitHubCalendar username="Oik17" colorScheme="dark"/>
             </div>
 
             <div className="flex gap-4 lg:mt-8 mt-10">

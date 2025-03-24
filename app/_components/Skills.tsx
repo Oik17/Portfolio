@@ -27,7 +27,10 @@ export default function Skills() {
                     <i className="devicon-postgresql-plain text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">PostgreSQL</span>
                 </div>
-                
+                <div className="relative group">
+                    <i className="devicon-redis-plain text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Redis</span>
+                </div>
                 <div className="relative group">
                     <i className="devicon-mysql-original text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">MySQL</span>
@@ -35,6 +38,10 @@ export default function Skills() {
                 <div className="relative group">
                     <i className="devicon-graphql-plain text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">GraphQL</span>
+                </div>
+                <div className="relative group">
+                    <i className="devicon-sqlite-plain-wordmark text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">SQLite</span>
                 </div>
                 <div className="relative group">
                     <i className="devicon-cplusplus-plain text-3xl"></i>
@@ -53,7 +60,7 @@ export default function Skills() {
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Java</span>
                 </div>                
                 <div className="relative group">
-                    <i className="devicon-nodejs-plain text-3xl"></i>
+                    <i className="devicon-nodejs-plain-wordmark text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">NodeJS</span>
                 </div>
                 <div className="relative group">
@@ -88,6 +95,12 @@ export default function Skills() {
                 </div>
 
                 {/* Tools */}
+                
+                <div className="relative group">
+                    <i className="devicon-git-plain text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Git</span>
+                </div>
+                
                 <div className="relative group">
                     <i className="devicon-amazonwebservices-plain-wordmark text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">AWS</span>
@@ -96,6 +109,11 @@ export default function Skills() {
                     <i className="devicon-docker-plain text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Docker</span>
                 </div>
+                <div className="relative group">
+                    <i className="devicon-digitalocean-original-wordmark text-3xl"></i>
+                    <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">Digital Ocean</span>
+                </div>
+                
                 <div className="relative group">
                     <i className="devicon-json-plain text-3xl"></i>
                     <span className="absolute bottom-full left-1/2 transform -translate-x-1/2 mb-2 w-max px-2 py-1 bg-slate-300 text-slate-900 text-sm rounded opacity-0 group-hover:opacity-100 transition-opacity duration-300">JWT</span>
