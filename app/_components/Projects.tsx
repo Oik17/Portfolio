@@ -57,40 +57,39 @@ export default function Projects() {
 }
 
 const work = [
-    {
-      title: "Golang File Setup Extension",
+  {
+    title: "gRPC-game",
+    description:
+      "Multiplayer quiz game which utilizes gRPC to stream responses from users and updates the leaderboard with their points.",
+    skills: ["Go", "gRPC", "sqlc", "postgreSQL"],
+    github: "https://github.com/Oik17/gRPC-game",
+  },
+  {
+    title: "Golang File Setup Extension",
+    description:
+      "VSCode Extension that initializes basic files and folder structure for Go frameworks (Gin/Echo/Fiber/Chi), including main.go, Docker files, and optional SQLx setup.",
+    skills: ["Go", "Javascript"],
+    github: "https://github.com/Oik17/golang-file-setup-extension",
+  },
+  {
+    title: "VTOP to Google Calendar Extension",
+    description:
+      "Google Extension which automatically syncs the due dates of all Digital Assignments from VTOP to your Google Calendar.",
+    skills: ["Javascript", "HTML", "CSS"],
+    github: "https://github.com/Oik17/VTOP-to-Google-Calendar-Sync",
+  },  
+  {
+      title: "Briefly",
       description:
-        "VSCode Extension that initializes basic files and folder structure for Go frameworks (Gin/Echo/Fiber/Chi), including main.go, Docker files, and optional SQLx setup.",
-      skills: ["Go", "Javascript"],
-      github: "https://github.com/Oik17/golang-file-setup-extension",
+        "Online tool for generating video summaries and transcripts. Backend in Python/Django, with a frontend by a team member. Hosted on Replit.",
+      skills: ["Python", "Django", "Replit"],
+      github: "https://github.com/Oik17/briefly",
     },
-    {
-      title: "VTOP to Google Calendar Extension",
-      description:
-        "Google Extension which automatically syncs the due dates of all Digital Assignments from VTOP to your Google Calendar.",
-      skills: ["Javascript", "HTML", "CSS"],
-      github: "https://github.com/Oik17/VTOP-to-Google-Calendar-Sync",
-    },  
-    
-    {
-      title: "gRPC-game",
-      description:
-        "Multiplayer quiz game which utilizes gRPC to stream responses from users and updates the leaderboard with their points.",
-      skills: ["Go", "gRPC", "sqlc", "postgreSQL"],
-      github: "https://github.com/Oik17/gRPC-game",
-    },
-    {
-        title: "Briefly",
-        description:
-          "Online tool for generating video summaries and transcripts. Backend in Python/Django, with a frontend by a team member. Hosted on Replit.",
-        skills: ["Python", "Django", "Replit"],
-        github: "https://github.com/Oik17/briefly",
-      },
-    {
-      title: "Word Setup Script",
-      description:
-        "A powershell script to setup all basic parts of a MS Word file for a digital assignment, including name, headings, subheadings and margins.",
-      skills: ["Powershell"],
-      github: "https://github.com/Oik17/Word-Setup",
-    }
+  {
+    title: "Word Setup Script",
+    description:
+      "A powershell script to setup all basic parts of a MS Word file for a digital assignment, including name, headings, subheadings and margins.",
+    skills: ["Powershell"],
+    github: "https://github.com/Oik17/Word-Setup",
+  }
 ];
