@@ -6,6 +6,7 @@ import Experience from "./_components/Experience";
 import Projects from "./_components/Projects";
 import Organisations from "./_components/Orgs";
 import Hero from "./_components/Hero";
+import Certifications from "./_components/Certifications";
 
 export default function Home() {
   const [mousePosition, setMousePosition] = useState({ x: 0, y: 0 });
@@ -43,6 +44,7 @@ export default function Home() {
             <Experience />
             <Projects/>
             <Organisations/>
+            <Certifications/>
           </div>
         </div>
       </div>
