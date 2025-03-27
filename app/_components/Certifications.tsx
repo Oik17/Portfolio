@@ -63,5 +63,6 @@ const certifications = [
     title: "Guitar Grade 7",
     issuer: "London College of Music Examinations",
     date: "Apr 2022",
+    link: "https://guitar.akshat-gupta.com/"
   },
 ];
