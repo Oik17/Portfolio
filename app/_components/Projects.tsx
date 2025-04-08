@@ -79,7 +79,7 @@ const work = [
   {
     title: "File Sharing System",
     description: 
-      "",
+      "A web-based file sharing system that allows users to upload and manage various types of files (e.g., JPG, PNG, PDF, etc.) and share them easily and securely with other users.",
     skills: ["Go", "PostgreSQL", "NextJS", "Docker", "AWS S3", "sqlc", "OAuth2.0"],
     github: "https://github.com/Oik17/file-sharing-system",
     msstore: "https://file-sharing.akshat-gupta.com/",
