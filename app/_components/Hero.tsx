@@ -20,6 +20,7 @@ export default function Hero()
                 <a href="#experience"><p className={`${league1.className} hover:text-slate-100 hover:duration-500  `}>{"------"} &nbsp; EXPERIENCE</p></a>
                 <a href="#projects"><p className={`${league1.className}  hover:text-slate-100 hover:duration-500 `}> {"------   "} &nbsp; PROJECTS</p></a>
                 <a href="#organizations"><p className={`${league1.className}  hover:text-slate-100 hover:duration-500 `}> {"------   "} &nbsp; ORGANISATIONS</p></a> 
+                <a href="#certifications"><p className={`${league1.className}  hover:text-slate-100 hover:duration-500 `}> {"------   "} &nbsp; CERTIFICATIONS</p></a> 
             </div>
 
             <div className="calendar mt-12 w-3/5 lg:block hidden">
