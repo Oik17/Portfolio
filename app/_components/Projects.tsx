@@ -70,6 +70,21 @@ export default function Projects() {
 
 const work = [
   {
+    title: "YouTube to MP3/MP4 Converter Chrome Extension",
+    description:
+      "Paste a link or grab the current YouTube tab, convert it to MP3 or MP4 and download instantly.",
+    skills: ["Go", "Javascript"],
+    github: "https://github.com/Oik17?tab=repositories&q=yt&type=&language=&sort=",
+  },
+  {
+    title: "File Sharing System",
+    description: 
+      "",
+    skills: ["Go", "PostgreSQL", "NextJS", "Docker", "AWS S3", "sqlc", "OAuth2.0"],
+    github: "https://github.com/Oik17/file-sharing-system",
+    msstore: "https://file-sharing.akshat-gupta.com/",
+  },
+  {
     title: "gRPC-game",
     description:
       "Multiplayer quiz game which utilizes gRPC to stream responses from users and updates the leaderboard with their points.",
