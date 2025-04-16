@@ -50,7 +50,7 @@ const certifications = [
   {
     title: "Supervised Machine Learning: Regression and Classification",
     issuer: "DeepLearning.AI and Standford University, Coursera",
-    data: "Apr 2025",
+    date: "Apr 2025",
     link: "https://www.coursera.org/account/accomplishments/verify/SGVZQB8JCQ97"
   },
   {
