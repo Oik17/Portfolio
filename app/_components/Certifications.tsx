@@ -48,6 +48,12 @@ const certifications = [
     link: "https://cp.certmetrics.com/amazon/en/public/verify/credential/e95a5c2d48ed4b2eaa9bb97dfde9f97f"
   },
   {
+    title: "Supervised Machine Learning: Regression and Classification",
+    issuer: "DeepLearning.AI and Standford University, Coursera",
+    data: "Apr 2025",
+    link: "https://www.coursera.org/account/accomplishments/verify/SGVZQB8JCQ97"
+  },
+  {
     title: "The Complete Full-Stack Web Development BootCamp",
     issuer: "Angela Yu, Udemy",
     date: "March 2024",
