@@ -44,13 +44,13 @@ const certifications = [
   {
     title: "AWS Certified Cloud Practitioner",
     issuer: "Amazon Web Services",
-    date: "Aug 2024",
+    date: "August 2024",
     link: "https://cp.certmetrics.com/amazon/en/public/verify/credential/e95a5c2d48ed4b2eaa9bb97dfde9f97f"
   },
   {
     title: "Supervised Machine Learning: Regression and Classification",
     issuer: "DeepLearning.AI and Standford University, Coursera",
-    date: "Apr 2025",
+    date: "April 2025",
     link: "https://www.coursera.org/account/accomplishments/verify/SGVZQB8JCQ97"
   },
   {
@@ -60,15 +60,15 @@ const certifications = [
     link: "https://www.udemy.com/certificate/UC-9df84cd4-bf14-45b7-8145-67afce01df69/"
   },
   {
-    title: "Game Development using PyGame",
-    issuer: "GUVI Geek Network, IITM Research Park",
-    date: "Sep 2022",
-    link: "https://www.guvi.in/verify-certificate?id=jK5m2Y6R32O191XM63"
-  },
-  {
     title: "Guitar Grade 7",
     issuer: "London College of Music Examinations",
-    date: "Apr 2022",
+    date: "April 2022",
     link: "https://guitar.akshat-gupta.com/"
+  },
+  {
+    title: "Game Development using PyGame",
+    issuer: "GUVI Geek Network, IITM Research Park",
+    date: "September 2022",
+    link: "https://www.guvi.in/verify-certificate?id=jK5m2Y6R32O191XM63"
   },
 ];
