@@ -59,7 +59,7 @@ const work = [
       date: "JUN - AUG 2024",
       description:
         "Developed the backend of a mobile application using GoLang (Gin framework), PostgreSQL and Docker, Implemented functionalities such as Payments, Google Calendar integration, OAuth2.0 and instant messaging.",
-      skills: ["Go", "PostgreSQL"],
+      skills: ["Go", "PostgreSQL", "Docker"],
     },
     {
       title: "Data Analyst Intern",
@@ -68,5 +68,5 @@ const work = [
       description:
       "Utilize Python and PowerBI to perform analysis and make visualizations of large datasets",
       skills: ["Python", "PowerBI", "SQL"]
-    }
+    },
 ];
