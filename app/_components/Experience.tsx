@@ -61,4 +61,12 @@ const work = [
         "Developed the backend of a mobile application using GoLang (Gin framework), PostgreSQL and Docker, Implemented functionalities such as Payments, Google Calendar integration, OAuth2.0 and instant messaging.",
       skills: ["Go", "PostgreSQL"],
     },
+    {
+      title: "Data Analyst Intern",
+      company: "Revvity",
+      date: "MAY 2025 -PRESENT",
+      description:
+      "Utilize Python and PowerBI to perform analysis and make visualizations of large datasets",
+      skills: ["Python", "PowerBI", "SQL"]
+    }
 ];
