@@ -45,28 +45,29 @@ export default function Experience() {
 
 
 const work = [
-    {
+
+  {
+    title: "Data Analyst Intern",
+    company: "Revvity",
+    date: "MAY 2025 - PRESENT",
+    description:
+      "Utilize Python and Power BI to analyze and visualize large datasets. Independently developed a comprehensive audit logging report. Collaborated on testing user-defined functions (UDFs) for data pipelines and contributed to the design and logic of a recommendation engine.",
+    skills: ["Python", "Power BI", "SQL", "Pandas", "NumPy", "Scikit-learn"],
+  },
+  {
+    title: "Backend Developer",
+    company: "VoxVertex",
+    date: "JUN - AUG 2024",
+    description:
+      "Developed the backend of a mobile application using GoLang (Gin framework), PostgreSQL and Docker, Implemented functionalities such as Payments, Google Calendar integration, OAuth2.0 and instant messaging.",
+    skills: ["Go", "PostgreSQL", "Docker"],
+  },  
+  {
       title: "Backend Developer Intern",
       company: "GovGPT",
       date: "JAN - MAY 2024",
       description:
         "Developed the backend of an a law enforcement application with Flask and GoLang, using Timescale DB as the database and OAuth2.0 for user authentication. Converted GraphQL database logic from NodeJS to GoLang for improved performance. Developed a program which filters PDFs containing multiple emails along with hyperlinks into separate entities. Maintained and upgraded the legacy codebase written in NodeJS, implementing better spam and profanity filters",
       skills: ["Go", "NodeJS", "Python", "TimescaleDB", "GraphQL"],
-    },
-    {
-      title: "Backend Developer",
-      company: "VoxVertex",
-      date: "JUN - AUG 2024",
-      description:
-        "Developed the backend of a mobile application using GoLang (Gin framework), PostgreSQL and Docker, Implemented functionalities such as Payments, Google Calendar integration, OAuth2.0 and instant messaging.",
-      skills: ["Go", "PostgreSQL", "Docker"],
-    },
-    {
-      title: "Data Analyst Intern",
-      company: "Revvity",
-      date: "MAY 2025 -PRESENT",
-      description:
-      "Utilize Python and PowerBI to perform analysis and make visualizations of large datasets",
-      skills: ["Python", "PowerBI", "SQL"]
     },
 ];
