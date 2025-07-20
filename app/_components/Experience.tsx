@@ -45,18 +45,24 @@ export default function Experience() {
 
 
 const work = [
-
+  {
+    title: "R&D Intern",
+    company: "Samsung PRISM",
+    date: "JUL 2025 - PRESENT",
+    description: "Working on an algorithm to analyse signal strength and patterns from multiple devices to estimate user location",
+    skills: ["Python", "Machine Learning", "Signal Processing", "Data Analysis"],
+  },
   {
     title: "Data Analyst Intern",
     company: "Revvity",
-    date: "MAY 2025 - PRESENT",
+    date: "MAY - JUL 2025",
     description:
       "Utilize Python and Power BI to analyze and visualize large datasets. Independently developed a comprehensive audit logging report. Collaborated on testing user-defined functions (UDFs) for data pipelines and contributed to the design and logic of a recommendation engine.",
     skills: ["Python", "Power BI", "SQL", "Pandas", "NumPy", "Scikit-learn"],
   },
   {
     title: "Backend Developer",
-    company: "VoxVertex",
+    company: "VoxVertex Solutions",
     date: "JUN - AUG 2024",
     description:
       "Developed the backend of a mobile application using GoLang (Gin framework), PostgreSQL and Docker, Implemented functionalities such as Payments, Google Calendar integration, OAuth2.0 and instant messaging.",
