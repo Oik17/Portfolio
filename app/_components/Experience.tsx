@@ -54,7 +54,7 @@ const work = [
   },
   {
     title: "Data Analyst Intern",
-    company: "Revvity",
+    company: "Revvity Healthcare",
     date: "MAY - JUL 2025",
     description:
       "Utilize Python and Power BI to analyze and visualize large datasets. Independently developed a comprehensive audit logging report. Collaborated on testing user-defined functions (UDFs) for data pipelines and contributed to the design and logic of a recommendation engine.",
